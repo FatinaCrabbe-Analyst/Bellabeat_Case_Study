@@ -1,5 +1,5 @@
 # Case Study: Bellabeat Fitness Data Analysis
-**Author:** [Your Name]
+**Author:** Fatina Crabbe
 **Date:** April 2026
 
 ## 1. Ask
